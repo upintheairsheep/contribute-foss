@@ -311,6 +311,8 @@ Before you start, please read our [contributor guidelines](CONTRIBUTING.md)!
 
 Contributing to Common Voice is *really* easy. Just visit the project's website and then either speak and donate your voice or listen and validate others' voices. Consider spending an evening with your friends or organizing an event where everybody contributes to the project.
 
+#### Mapilliary, KartaView, and Mapilio
+
 ## Other Links
 
 The website [Open Source Guides](https://opensource.guide/) is a collection of resources curated by GitHub about running and contributing to FLOSS projects. The website includes a page about "[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)," which is another good reference in addition to this project.
